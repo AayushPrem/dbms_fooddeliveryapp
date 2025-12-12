@@ -12,7 +12,7 @@ streamlit run dbmstest1.py
 
 food-delivery-app/
 ├── dbmstest1.py              # Main Streamlit application
-├── createfoodappdatabase.py   # Database setup script
+├── createfoodappdatabase.py   # Database setup 
 └── README.md                 # This file
 
 # 🍔 FoodDelight - Multi-Panel Food Delivery System
